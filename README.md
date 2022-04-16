@@ -5,7 +5,8 @@ I am a software developer, passionate about technology, looking to learn new thi
 ## Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
+[![Jetpack_Compose](https://img.shields.io/badge/Jetpack_Compose-3DDB84?style=for-the-badge&logo=jetpack-compose&logoColor=white)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDD85?style=for-the-badge&logo=android-studio&logoColor=white)]()
 </br>
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
