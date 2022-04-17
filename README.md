@@ -10,6 +10,7 @@ I am a software developer, passionate about technology, looking to learn new thi
 </br>
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-2596BE?style=for-the-badge&logo=swift&logoColor=white)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
