@@ -15,4 +15,4 @@ I am a software developer, passionate about technology, looking to learn new thi
 </br>
 [![Java](https://img.shields.io/badge/Java-f66700?style=for-the-badge&logo=java&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00618b?style=for-the-badge&logo=mysql&logoColor=white)]()
