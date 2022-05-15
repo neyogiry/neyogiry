@@ -18,4 +18,4 @@ I am a software developer, passionate about technology, looking to learn new thi
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00618b?style=for-the-badge&logo=mysql&logoColor=white)]()
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neyogiry&layout=compact&langs_count=10)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neyogiry&layout=compact&langs_count=6)]()
