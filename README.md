@@ -13,6 +13,7 @@ I am a software developer, passionate about technology, looking to learn new thi
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-2596BE?style=for-the-badge&logo=swift&logoColor=white)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)]()
 </br>
+[![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]()
 </br>
