@@ -23,4 +23,4 @@ I am a software developer, passionate about technology, looking to learn new thi
 [![SqLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00618b?style=for-the-badge&logo=mysql&logoColor=white)]()
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neyogiry&layout=compact&langs_count=5)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neyogiry&layout=compact&langs_count=4)]()
